@@ -26,7 +26,7 @@ The Web App
 
 With the help from  , we were able to deploy a simple flasks web app for itinerary planner onto app engine. 
 
-Web app: https://airasia-otaflights-dev.appspot.com/
+Web app: https://malaysia-trip-planner.appspot.com/
 
 # Improvements
 

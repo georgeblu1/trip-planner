@@ -10,9 +10,6 @@ from scipy.spatial.distance import cdist
 
 from flask import Flask, render_template, url_for, request, redirect
 
-
-google_map_api_key ='-'
-
 app = Flask(__name__)
 
 def destinations(kml_filename):
